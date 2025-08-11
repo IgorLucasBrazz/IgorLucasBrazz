@@ -6,3 +6,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_lucas_braz/)
 
 ![Igor Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorLucasBrazz&show_icons=true&theme=onedark)
+![IgorLucasBrazz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorLucasBrazz&theme=vue-dark&hide_border=false)
+
