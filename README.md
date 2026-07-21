@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/igor-braz-3826b6210/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-lucas-braz/)
   <a href="mailto:igorlucasbraz147@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
