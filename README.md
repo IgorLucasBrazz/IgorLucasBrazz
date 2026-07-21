@@ -1,36 +1,93 @@
-# Olá, eu sou Igor Lucas dos Santos Braz! 👋🏽
+<h1 align="center">Olá, eu sou Igor Braz! 👋🏽</h1>
 
-Sou desenvolvedor apaixonado por criar soluções digitais com foco em tecnologia, experiência do usuário e resultados práticos. Tenho interesse especial por desenvolvimento web, backend, automação, integrações e inteligência artificial.
+<h3 align="center">
+  Desenvolvedor Full Stack com foco em Backend, Automações e Inteligência Artificial
+</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-braz-3826b6210/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorlucasbraz147@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_lucas_braz/)
+<p align="center">
+  Desenvolvo aplicações web, APIs, integrações e soluções digitais voltadas para problemas reais.
+</p>
 
-## Sobre mim
+<p align="center">
+  <a href="https://www.linkedin.com/in/igor-braz-3826b6210/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:igorlucasbraz147@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- Desenvolvedor com interesse em Full Stack e soluções completas
-- Foco em projetos com Next.js, React, TypeScript e APIs
-- Apaixonado por aprender, construir e entregar valor com tecnologia
-- Sempre buscando evoluir com boas práticas, performance e organização
+---
 
-## Tecnologias e ferramentas
+## 👨🏽‍💻 Sobre mim
 
+- 💻 Desenvolvedor e consultor de tecnologia
+- ⚙️ Crio aplicações web, APIs REST, automações e integrações
+- 🤖 Desenvolvo soluções utilizando inteligência artificial e n8n
+- 🧩 Trabalho principalmente com Node.js, TypeScript, Python e PostgreSQL
+- 🌐 Tenho experiência com Next.js, React e desenvolvimento Full Stack
+- 🧑🏽‍🏫 Também atuo no ensino de desenvolvimento com Flutter
+- 🚀 Busco construir soluções organizadas, escaláveis e que gerem resultados reais
+
+---
+
+## 🚀 Principais tecnologias
+
+### Backend e banco de dados
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend e mobile
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Ferramentas, automação e infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Estatísticas no GitHub
+---
 
-![Igor Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorLucasBrazz&show_icons=true&theme=onedark)
+## 📊 Estatísticas no GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=IgorLucasBrazz&theme=onedark)
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=IgorLucasBrazz&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    width="40%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorLucasBrazz&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
 
-## Em destaque
+---
 
-- Portfólio profissional desenvolvido com Next.js
-- Projetos com foco em experiência, automação e integração
-- Constante aprendizado em desenvolvimento moderno e boas práticas
+## 🎯 Áreas de interesse
 
-Se quiser, posso também montar uma versão ainda mais elegante com uma seção de projetos destacados, linguagem principal e um layout mais “perfil GitHub” estilo profissional.
+- Desenvolvimento Backend
+- APIs e microsserviços
+- Sistemas web Full Stack
+- Automação de processos
+- Integrações entre plataformas
+- Inteligência artificial aplicada
+- Arquitetura e qualidade de software
+
+---
+
+<p align="center">
+  Transformando problemas em soluções através da tecnologia.
+</p>
