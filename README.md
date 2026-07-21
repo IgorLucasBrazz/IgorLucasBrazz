@@ -73,19 +73,16 @@
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 🟩 Minhas contribuições
 
 <p align="center">
-  <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=IgorLucasBrazz&show_icons=true&theme=transparent&hide_border=true&locale=pt-br"
-    alt="Estatísticas de Igor Braz no GitHub"
-  />
-  <img
-    width="40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=IgorLucasBrazz&layout=compact&theme=transparent&hide_border=true&locale=pt-br"
-    alt="Linguagens mais utilizadas por Igor Braz"
-  />
+  <a href="https://github.com/IgorLucasBrazz">
+    <img
+      src="https://ghchart.rshah.org/2ea44f/IgorLucasBrazz"
+      alt="Gráfico de contribuições de Igor Braz no GitHub"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
